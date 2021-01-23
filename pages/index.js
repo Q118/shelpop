@@ -12,6 +12,8 @@ const Products = ({ products }) => {
   );
 };
 
+// this line allows us to send properties to our component and enables SSR
 Products.getInitialProps = withProducts;
+// so whatever withProduct returns will be available as properties in our component
 
 export default Products;
