@@ -1,7 +1,9 @@
-import '../styles/globals.css'
+import CartProvider from "../context/cart";
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+function App({ Component, pageProps }) {
+  return (
+    <CartProvider>
+      {/* layout Components */}
+    </CartProvider>
+  );
 }
-
-export default MyApp
