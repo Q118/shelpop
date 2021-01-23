@@ -1,0 +1,35 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wool Hat",
+        "description": "Designed to provide warmth in cold weather.",
+        "price": 1500
+      },
+      {
+        "id": 2,
+        "name": "Merino Sweater",
+        "description": "Merino wool jumpers are the real all-rounders of outdoor sweaters.",
+        "price": 2990
+      },
+      {
+        "id": 3,
+        "name": "Mittens",
+        "description": "Mittens for all activities.",
+        "price": 1250
+      },
+      {
+        "id": 4,
+        "name": "Shawl",
+        "description": "Loosely worn over the shoulders.",
+        "price": 999
+      },
+      {
+        "id": 5,
+        "name": "Gloves",
+        "description": "Covering the whole hand",
+        "price": 1000
+      }
+    ]
+  }
+  
