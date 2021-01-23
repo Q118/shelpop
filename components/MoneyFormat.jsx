@@ -10,3 +10,4 @@ export default function MoneyFormat({ value }) {
         </span>
     );
 } 
+
