@@ -7,7 +7,7 @@ import { CartContext } from "../context/cart";
 
 const Product = () => {
 	const { dispatch } = useContext(CartContext);
-
+// we inject our dispatch function by making a call to the useContext hook and makes that call when a user clicks the button
 	return (
 		<>
 			{/* Product components */}
