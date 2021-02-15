@@ -27,7 +27,7 @@ export default function MainMenu() {
       style={{ border: "5px solid white" }}
     >
       <Container fluid>
-        <Menu.Item header>Webshop</Menu.Item>
+        <Menu.Item header>Shelpopshop</Menu.Item>
         {buttons.map((button) => (
           <Link key={button.text} href={button.path}>
             <Menu.Item

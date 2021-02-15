@@ -12,10 +12,10 @@ function MyApp({ Component, pageProps }) {
           <Component {...pageProps} />
         </Container>
         <div style={{ textAlign: "center" }}>
-          <a href="https://gerardvanderput.com" target="_blank">
+          <a href="https://shelbyrothman.com" target="_blank">
             <Button icon size="mini" labelPosition="left">
               <Icon name="heart" color="red" />
-              Gerard van der Put.com
+             ShelbyRothman.com
             </Button>
           </a>
         </div>
